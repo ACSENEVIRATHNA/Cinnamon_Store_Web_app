@@ -1,7 +1,7 @@
 .body2 {
   margin: 0;
   padding: 0;
-  background-image: url('E:/cinnamon/frontend/public/products/backgroundlogin.jpeg');
+  background-image: url('../../../public/products/backgroundlogin.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;

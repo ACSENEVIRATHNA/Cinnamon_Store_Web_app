@@ -2,7 +2,7 @@
 .imagebackground {
     margin: 0;
     padding: 0;
-    background-image: url('E:\cinnamon\frontend\src\images\back.jpeg');
+    background-image: url('../../images/back.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -13,7 +13,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('E:\cinnamon\frontend\src\images\back.jpeg');
+    background-image: url('../../images/back.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
